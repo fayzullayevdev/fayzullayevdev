@@ -1,4 +1,4 @@
-<h1 align="center">Shakhboz Fayzullayev Backend developer</h1>
+<h1 align="center">Shakhboz Fayzullayev Backend developer.</h1>
 
 ## Hi I'm Shakhboz Fayzullayev <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
