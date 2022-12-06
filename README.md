@@ -31,7 +31,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PhpUser01&show_icons=true&theme=gotham" alt="PhpUser01" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fayzullayevdev&show_icons=true&theme=gotham" alt="fayzullayevdev" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sukhrobnuraliev" /></a> </p>
 
